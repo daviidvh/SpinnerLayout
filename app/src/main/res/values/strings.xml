@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpinnerLayout</string>
+    <string-array name="estadoCivil">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Viudo</item>
+        <item>Puto</item>
+    </string-array>
+    <string-array name="cargo">
+        <item>Ventas</item>
+        <item>Informatica</item>
+        <item>Jardineria</item>
+    </string-array>
+</resources>
